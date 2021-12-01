@@ -28,3 +28,23 @@ sudo apt-get install avrdude
 2. GCC compiler for AVR
 3. Code block
 4. vs code
+#  4 W'S AND 1 H
+
+## Who
+
+        Anyone can Create and dispaly letters in lcd screen.
+
+## What
+   
+       The project is developed using an atmega328p, a 4x4 keypad, a resistor and lcd screen.    
+
+## When
+
+       Keypad that displays letters on the lcd screen based on which key has been pressed at anytime.
+
+## Why
+
+       It is developed on simple language and easy to use.
+## How
+
+        Based on key pressed the letters will be displayed in LCD screen.
