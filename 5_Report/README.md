@@ -48,4 +48,11 @@ sudo apt-get install avrdude
 ## How
 
         Based on key pressed the letters will be displayed in LCD screen.
+# Design
+## Schematic diagram
+![schematic](https://user-images.githubusercontent.com/94157594/144371516-59f8211f-0520-4b3c-9f1f-9182844e35d5.png)
+## Circuit diagram
+![circuit diagram](https://user-images.githubusercontent.com/94157594/144371564-b776aea7-4b94-4824-b6d1-82c8139d0e7e.png)
+
+
 
