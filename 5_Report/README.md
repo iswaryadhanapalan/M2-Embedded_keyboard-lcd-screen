@@ -53,6 +53,24 @@ sudo apt-get install avrdude
 ![schematic](https://user-images.githubusercontent.com/94157594/144371516-59f8211f-0520-4b3c-9f1f-9182844e35d5.png)
 ## Circuit diagram
 ![circuit diagram](https://user-images.githubusercontent.com/94157594/144371564-b776aea7-4b94-4824-b6d1-82c8139d0e7e.png)
+# Implementation
+## Introduction
+This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program
+## Instructions to execute
+1.Clone my repository
+2.Go to 3_Implementation folder
+3.Make sure your system meets all software and hardware requirements
+4.Run "make run" command in terminal for main code execution
+5.Run "make run_test" command in terminal for test code execution.
+## Folder Structure
+|Column 1 Header |Column 2 Header |
+|--- |--- |
+|Inc |All header files|
+| | |
+|Src |Main source code for system|
+| | |
+|test |All source code and data for testing purposes|
+| | |
 
 
 
